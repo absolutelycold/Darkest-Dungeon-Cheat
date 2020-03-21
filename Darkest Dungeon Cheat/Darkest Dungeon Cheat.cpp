@@ -89,7 +89,7 @@ DWORD WINAPI UIfunc(LPVOID lpThreadParameter) {
         system("cls");
 
         printf("-----------Author: Absolutelycold-----------\n\n");
-        printf("Update on github: https://github.com/absolutelycold \n\n");
+        printf("Update on github: https://github.com/absolutelycold/Darkest-Dungeon-Cheat \n\n");
 
         if (isOneKill)
         {
